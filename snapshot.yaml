@@ -1,0 +1,43 @@
+resolver: lts-14.13
+name: metrix-snapshot
+packages:
+- aeson-value-parser-0.16
+- attoparsec-data-1.0.4.1
+- attoparsec-time-1.0.1
+- ascii-string-1.0.1.3
+- bitvec-0.1.0.2
+- bug-1.0.1
+- {git: "https://github.com/nikita-volkov/canapi", commit: "cf4acbb21278231f5e9e5af1246d599e246e46ba"}
+- cereal-data-dword-0.1.1
+- cereal-uuid-0.1.1
+- cereal-unordered-containers-0.1
+- charsetdetect-1.1.0.2
+- char-qq-0.1.1.1
+- {git: "https://github.com/nikita-volkov/coalmine", commit: "22882bc918c0a5a3cb240d52dc0605c5ceb5aa14"}
+- compound-types-0.1.4
+- dense-int-set-0.3
+- {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
+- eternity-0.1.3
+- eternity-timestamped-0.4.1
+- expiring-containers-0.2.2.1
+- hasql-transaction-0.10.0.1
+- int-multimap-0.3.1
+- json-bytes-builder-0.5.2
+- {git: "https://github.com/nikita-volkov/most.hs", commit: "acfb227620f9b39922af49bbd02354c293c2fa9e"}
+- mwc-random-monad-0.7.3.1
+- optima-0.4
+- optparse-applicative-0.15.0.0
+- optparse-applicative-simple-1.1.0.2
+- ptr-0.16.6
+- slave-thread-1.0.3
+- stm-containers-1.1.0.4
+- stm-hamt-1.2.0.4
+- strelka-2.0.5
+- strelka-core-0.3.0.1
+- strelka-wai-1.0.1.1
+- text-1.2.4.0
+- text-builder-0.6.6.1
+- timestamp-0.2
+- url-decoders-0.2.1
+- vector-extras-0.2.1.1
+- vector-shuffling-1.1
