@@ -22,7 +22,7 @@ packages:
 - expiring-containers-0.2.2.1
 - {git: "https://github.com/nikita-volkov/fx", commit: "d4e5b446b88c930fd1abd23b276f6072700722ea"}
 - {git: "https://github.com/nikita-volkov/fx-for-hasql", commit: "b70a13919bbccbea1ecb341b25587fd83af9fbe8"}
-- {git: "https://github.com/nikita-volkov/hasql-th", commit: "49285aeac4d874bf2adeb4b4ebc19292cc1b2273"}
+- {git: "https://github.com/nikita-volkov/hasql-th", commit: "3f6a321067dc69f79e31feddc527ab39b9c3cf93"}
 - hasql-transaction-0.10.0.1
 - int-multimap-0.3.1
 - json-bytes-builder-0.5.2
