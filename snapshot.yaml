@@ -7,7 +7,7 @@ packages:
 - ascii-string-1.0.1.3
 - bitvec-0.1.0.2
 - bug-1.0.1
-- {git: "https://github.com/nikita-volkov/canapi", commit: "cf4acbb21278231f5e9e5af1246d599e246e46ba"}
+- {git: "https://github.com/nikita-volkov/canapi", commit: "84f952a580e8710238cff52400c427c68b2bb5d6"}
 - cereal-data-dword-0.1.1
 - cereal-uuid-0.1.1
 - cereal-unordered-containers-0.1
