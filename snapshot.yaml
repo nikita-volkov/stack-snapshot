@@ -42,7 +42,7 @@ packages:
 - stm-containers-1.1.0.4
 - stm-hamt-1.2.0.4
 - strelka-2.0.5
-- strelka-core-0.3.0.1
+- strelka-core-0.3.1
 - strelka-wai-1.0.1.1
 - text-1.2.4.0
 - text-builder-0.6.6.1
