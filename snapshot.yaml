@@ -7,6 +7,8 @@ packages:
 - ascii-string-1.0.1.3
 - bitvec-0.1.0.2
 - bug-1.0.1
+- byteslice-0.1.4.0
+- bytesmith-0.3.1.0
 - {git: "https://github.com/nikita-volkov/canapi", commit: "ac01b80602529ec2e152a700b5c8772b910f7aa9"}
 - cereal-data-dword-0.1.1
 - cereal-uuid-0.1.1
@@ -15,6 +17,7 @@ packages:
 - char-qq-0.1.1.1
 - {git: "https://github.com/nikita-volkov/coalmine", commit: "0f0f3c48d67e4a68a0d175980c39e207a467c980"}
 - {git: "https://github.com/nikita-volkov/contravariant-extras", commit: "2ce63491466a14099a9d4b71a1fe5bb4c3ddba3a"}
+- contiguous-0.5
 - dense-int-set-0.3
 - {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
 - eternity-0.1.3
@@ -27,18 +30,26 @@ packages:
 - hasql-transaction-0.10.0.1
 - headed-megaparsec-0.1.0.2
 - int-multimap-0.3.1
+- ip-1.7.0
 - json-bytes-builder-0.5.2
 - {git: "https://github.com/nikita-volkov/most.hs", commit: "acfb227620f9b39922af49bbd02354c293c2fa9e"}
 - mwc-random-monad-0.7.3.1
+- natural-arithmetic-0.1.1.0
 - optima-0.4
 - optima-for-hasql-0.1.0.1
 - optparse-applicative-0.15.0.0
 - optparse-applicative-simple-1.1.0.2
+- primitive-0.7.0.0
+- primitive-addr-0.1.0.2
+- primitive-offset-0.2.0.0
+- primitive-unlifted-0.1.2.0
 - ptr-0.16.6
 - rebase-1.4.1
 - {git: "https://github.com/nikita-volkov/reduction", commit: "a59d3f93be33dd93825d7acb728c0bb5a8c5c89b"}
 - rerebase-1.4.1
+- run-st-0.1.0.0
 - slave-thread-1.0.3
+- small-bytearray-builder-0.3.1.0
 - stm-containers-1.1.0.4
 - stm-hamt-1.2.0.4
 - strelka-2.0.5
