@@ -9,7 +9,7 @@ packages:
 - bug-1.0.1
 - byteslice-0.1.4.0
 - bytesmith-0.3.1.0
-- {git: "https://github.com/nikita-volkov/canapi", commit: "602930800c87f27cd7c21ccaa3b11eb9aeb6bdab"}
+- {git: "https://github.com/nikita-volkov/canapi", commit: "dfa2b1dca986c03458004064f0d7e9e40cd1ce34"}
 - cereal-data-dword-0.1.1
 - cereal-uuid-0.1.1
 - cereal-unordered-containers-0.1
