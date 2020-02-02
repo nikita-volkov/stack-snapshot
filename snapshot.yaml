@@ -35,7 +35,7 @@ packages:
 - {git: "https://github.com/nikita-volkov/most.hs", commit: "acfb227620f9b39922af49bbd02354c293c2fa9e"}
 - mwc-random-monad-0.7.3.1
 - natural-arithmetic-0.1.1.0
-- neat-interpolation-0.4
+- neat-interpolation-0.5
 - network-3.1.1.1
 - optima-0.4
 - optima-for-hasql-0.1.0.1
