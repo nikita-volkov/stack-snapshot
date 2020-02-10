@@ -1,5 +1,5 @@
 resolver: lts-14.25
-name: metrix-snapshot
+name: nikita-volkov-snapshot
 packages:
 - aeson-value-parser-0.16
 - attoparsec-data-1.0.4.1
