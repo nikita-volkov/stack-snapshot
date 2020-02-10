@@ -15,7 +15,7 @@ packages:
 - cereal-unordered-containers-0.1
 - charsetdetect-1.1.0.2
 - char-qq-0.1.1.1
-- {git: "https://github.com/nikita-volkov/coalmine", commit: "e262f884909a126398ec796a7d9d5f5d5eb7a0f6"}
+- {git: "https://github.com/nikita-volkov/coalmine", commit: "a39f569136dbcdc31997f36a4d50b7f9c65607ca"}
 - {git: "https://github.com/nikita-volkov/contravariant-extras", commit: "2ce63491466a14099a9d4b71a1fe5bb4c3ddba3a"}
 - contiguous-0.5
 - dense-int-set-0.3
