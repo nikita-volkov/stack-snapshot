@@ -34,6 +34,8 @@ packages:
 - optima-for-hasql-0.1.0.1
 - optparse-applicative-simple-1.1.0.2
 - ptr-0.16.7
+- rebase-1.6
+- rerebase-1.6
 - {git: "https://github.com/nikita-volkov/reduction", commit: "a59d3f93be33dd93825d7acb728c0bb5a8c5c89b"}
 - selective-0.4
 - slave-thread-1.0.3
