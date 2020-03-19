@@ -19,7 +19,7 @@ packages:
 - eternity-timestamped-0.4.1
 - expiring-containers-0.2.2.1
 - fast-builder-0.1.2.0
-- {git: "https://github.com/nikita-volkov/fx", commit: "d4e5b446b88c930fd1abd23b276f6072700722ea"}
+- fx-0.4.0.1
 - {git: "https://github.com/nikita-volkov/fx-batteries", commit: "5720830c181f8098a16e39ad0ab5cdf102e6f111"}
 - {git: "https://github.com/nikita-volkov/fx-for-hasql", commit: "b70a13919bbccbea1ecb341b25587fd83af9fbe8"}
 - hasql-th-0.4.0.5
