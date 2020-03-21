@@ -1,7 +1,7 @@
 resolver: lts-15.4
 name: nikita-volkov-snapshot
 packages:
-- aeson-value-parser-0.18.1
+- aeson-value-parser-0.19
 - attoparsec-data-1.0.4.1
 - attoparsec-time-1.0.1
 - ascii-string-1.0.1.3
