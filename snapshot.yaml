@@ -22,7 +22,7 @@ packages:
 - fx-0.4.0.1
 - {git: "https://github.com/nikita-volkov/fx-batteries", commit: "5720830c181f8098a16e39ad0ab5cdf102e6f111"}
 - {git: "https://github.com/nikita-volkov/fx-for-hasql", commit: "b70a13919bbccbea1ecb341b25587fd83af9fbe8"}
-- hasql-th-0.4.0.5
+- hasql-th-0.4.0.6
 - hasql-transaction-0.10.0.3
 - headed-megaparsec-0.1.0.4
 - int-multimap-0.3.1
