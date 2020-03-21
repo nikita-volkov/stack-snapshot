@@ -36,7 +36,7 @@ packages:
 - ptr-0.16.7
 - rebase-1.6
 - rerebase-1.6
-- {git: "https://github.com/nikita-volkov/reduction", commit: "a59d3f93be33dd93825d7acb728c0bb5a8c5c89b"}
+- {git: "https://github.com/nikita-volkov/reduction", commit: "6045f611ae391b750d7f2620d19844394b9e5166"}
 - selective-0.4
 - slave-thread-1.0.3
 - strelka-2.0.5
