@@ -12,7 +12,7 @@ packages:
 - cereal-unordered-containers-0.1
 - charsetdetect-1.1.0.2
 - char-qq-0.1.1.1
-- {git: "https://github.com/nikita-volkov/coalmine", commit: "43eeb4f3bff242932b3a57814515e07f70da7846"}
+- {git: "https://github.com/nikita-volkov/coalmine", commit: "9c0c43d2fafdf319803f82eae0763d436e2e45e4"}
 - dense-int-set-0.3
 - {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
 - eternity-0.1.3
