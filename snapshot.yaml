@@ -12,7 +12,7 @@ packages:
 - cereal-unordered-containers-0.1
 - charsetdetect-1.1.0.2
 - char-qq-0.1.1.1
-- {git: "https://github.com/nikita-volkov/coalmine", commit: "add50bdfa963378f1b5dcab7efa02d3f2232c3c9"}
+- {git: "https://github.com/nikita-volkov/coalmine", commit: "43eeb4f3bff242932b3a57814515e07f70da7846"}
 - dense-int-set-0.3
 - {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
 - eternity-0.1.3
@@ -20,8 +20,8 @@ packages:
 - expiring-containers-0.2.2.1
 - fast-builder-0.1.2.0
 - {git: "https://github.com/nikita-volkov/fx", commit: "8f8799fac10ccf2c32d1175c7b458a4df15de678"}
-- {git: "https://github.com/nikita-volkov/fx-batteries", commit: "60002d106df7d8cd87963b6e83f60d7e870f4a75"}
-- {git: "https://github.com/nikita-volkov/fx-for-hasql", commit: "3fd5b4e36a8cd0cc8b8b5ddb66f9a12bc4b05696"}
+- {git: "https://github.com/nikita-volkov/fx-batteries", commit: "ea2070b9c60e0582aefb6eb69652a52231d89350"}
+- {git: "https://github.com/nikita-volkov/fx-for-hasql", commit: "c4865fe72b7e2daed738f87a09384a4acf1724c2"}
 - hasql-1.4.2
 - hasql-th-0.4.0.6
 - hasql-transaction-0.10.0.3
