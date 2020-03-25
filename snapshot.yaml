@@ -21,7 +21,7 @@ packages:
 - fast-builder-0.1.2.0
 - {git: "https://github.com/nikita-volkov/fx", commit: "a612390cf54c37150c367324b154170921b98318"}
 - {git: "https://github.com/nikita-volkov/fx-batteries", commit: "ea2070b9c60e0582aefb6eb69652a52231d89350"}
-- {git: "https://github.com/nikita-volkov/fx-for-hasql", commit: "c4865fe72b7e2daed738f87a09384a4acf1724c2"}
+- {git: "https://github.com/nikita-volkov/fx-for-hasql", commit: "fc515853d0d32376874df29663cb7eaf3e2d44e4"}
 - hasql-1.4.2
 - hasql-th-0.4.0.6
 - hasql-transaction-0.10.0.3
