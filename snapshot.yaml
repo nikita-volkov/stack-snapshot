@@ -6,7 +6,7 @@ packages:
 - attoparsec-time-1.0.1
 - ascii-string-1.0.1.3
 - bug-1.0.1
-- {git: "https://github.com/nikita-volkov/canapi", commit: "b8c9c640d33668db115c5fd29d6550bb318ad77a"}
+- {git: "https://github.com/nikita-volkov/canapi", commit: "0aed6b1541ee6d8842bec2f40323b1faa261d409"}
 - cereal-data-dword-0.1.1
 - cereal-uuid-0.1.1
 - cereal-unordered-containers-0.1
