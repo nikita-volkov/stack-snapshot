@@ -1,4 +1,4 @@
-resolver: lts-15.10
+resolver: lts-15.13
 name: nikita-volkov-snapshot
 packages:
 - aeson-value-parser-0.19
