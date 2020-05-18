@@ -25,7 +25,7 @@ packages:
 - {git: "https://github.com/nikita-volkov/fx-batteries", commit: "327fca595f1e521fcd600e2a1d836b8efb7d0e75"}
 - {git: "https://github.com/nikita-volkov/fx-for-hasql", commit: "fc515853d0d32376874df29663cb7eaf3e2d44e4"}
 - hasql-1.4.2
-- hasql-th-0.4.0.6
+- hasql-th-0.4.0.8
 - hasql-transaction-0.10.0.3
 - headed-megaparsec-0.1.0.4
 - int-multimap-0.3.1
@@ -36,6 +36,7 @@ packages:
 - optima-0.4
 - optima-for-hasql-0.1.0.1
 - optparse-applicative-simple-1.1.0.2
+- postgresql-syntax-0.3.0.2
 - ptr-0.16.7
 - rebase-1.6
 - rerebase-1.6
