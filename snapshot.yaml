@@ -63,3 +63,4 @@ packages:
 - {git: "https://github.com/nikita-volkov/most.hs", commit: "acfb227620f9b39922af49bbd02354c293c2fa9e"}
 - {git: "https://github.com/nikita-volkov/reduction", commit: "6045f611ae391b750d7f2620d19844394b9e5166"}
 - {git: "https://github.com/nikita-volkov/theatre", commit: "b656b53bde8bc7d6316b0dbd6a1430706a267588"}
+- {git: "https://github.com/nikita-volkov/transition", commit: "bc24caf848387fb6732e385064e46fc0a63885a0"}
