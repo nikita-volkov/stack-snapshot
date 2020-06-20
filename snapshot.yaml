@@ -62,5 +62,5 @@ packages:
 - {git: "https://github.com/nikita-volkov/fx-for-hasql", commit: "fc515853d0d32376874df29663cb7eaf3e2d44e4"}
 - {git: "https://github.com/nikita-volkov/most.hs", commit: "acfb227620f9b39922af49bbd02354c293c2fa9e"}
 - {git: "https://github.com/nikita-volkov/reduction", commit: "6045f611ae391b750d7f2620d19844394b9e5166"}
-- {git: "https://github.com/nikita-volkov/theatre", commit: "b656b53bde8bc7d6316b0dbd6a1430706a267588"}
+- {git: "https://github.com/nikita-volkov/theatre", commit: "b124d9331bde1baeb53d8f81c6beb2d6467d3e60"}
 - {git: "https://github.com/nikita-volkov/transition", commit: "bc24caf848387fb6732e385064e46fc0a63885a0"}
