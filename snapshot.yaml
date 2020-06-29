@@ -55,7 +55,7 @@ packages:
 - vector-extras-0.2.1.1
 - vector-shuffling-1.1
 - {git: "https://github.com/nikita-volkov/canapi", commit: "0aed6b1541ee6d8842bec2f40323b1faa261d409"}
-- {git: "https://github.com/nikita-volkov/coalmine", commit: "8902fd3aa4c501f840a27d2b75b83c987ad10dcb"}
+- {git: "https://github.com/nikita-volkov/coalmine", commit: "479cfc25eeac1926ee235c7e2945a5cd7ecb3745"}
 - {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
 - {git: "https://github.com/nikita-volkov/fx", commit: "a612390cf54c37150c367324b154170921b98318"}
 - {git: "https://github.com/nikita-volkov/fx-batteries", commit: "327fca595f1e521fcd600e2a1d836b8efb7d0e75"}
