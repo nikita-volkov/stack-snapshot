@@ -30,6 +30,7 @@ packages:
 - headed-megaparsec-0.1.0.4
 - int-multimap-0.3.1
 - json-bytes-builder-0.5.2
+- mason-0.2.2
 - mwc-random-monad-0.7.3.1
 - neat-interpolation-0.5.1
 - optima-0.4
