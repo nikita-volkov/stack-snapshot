@@ -42,6 +42,7 @@ packages:
 - primitive-extras-0.8
 - primitive-unlifted-0.1.3.0
 - ptr-0.16.7
+- punycode-2.0
 - rebase-1.7.1.1
 - rerebase-1.7.1.1
 - run-st-0.1.1.0
