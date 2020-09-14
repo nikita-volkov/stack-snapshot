@@ -67,6 +67,7 @@ packages:
 - {git: "https://github.com/nikita-volkov/fx-batteries", commit: "327fca595f1e521fcd600e2a1d836b8efb7d0e75"}
 - {git: "https://github.com/nikita-volkov/fx-for-hasql", commit: "fc515853d0d32376874df29663cb7eaf3e2d44e4"}
 - {git: "https://github.com/nikita-volkov/json-ast", commit: "f37ec23bd3d8d0f7a5f2b3fbe605f74453b0ed04"}
+- {git: "https://github.com/nikita-volkov/lean-http-client", commit: "17e2d6adbad06eff7b47eaaa42e022192b4ce985"}
 - {git: "https://github.com/nikita-volkov/most.hs", commit: "acfb227620f9b39922af49bbd02354c293c2fa9e"}
 - {git: "https://github.com/nikita-volkov/reduction", commit: "6045f611ae391b750d7f2620d19844394b9e5166"}
 - {git: "https://github.com/nikita-volkov/theatre", commit: "764977a8b73da0f30e74749226b325b129c4ffe0"}
