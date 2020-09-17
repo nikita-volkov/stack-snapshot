@@ -1,4 +1,4 @@
-resolver: lts-16.14
+resolver: nightly-2020-09-17
 name: nikita-volkov-snapshot
 packages:
 - aeson-value-parser-0.19.2.1
@@ -34,11 +34,6 @@ packages:
 - json-bytes-builder-0.5.2.1
 - mason-0.2.3
 - mwc-random-monad-0.7.3.1
-- neat-interpolation-0.5.1
-- optics-0.3
-- optics-core-0.3.0.1
-- optics-extra-0.3
-- optics-th-0.3.0.2
 - optima-0.4
 - optima-for-hasql-0.1.0.1
 - optparse-applicative-simple-1.1.0.2
