@@ -48,6 +48,7 @@ packages:
 - strelka-2.0.5
 - strelka-core-0.3.1
 - strelka-wai-1.0.1.1
+- text-1.2.4.0
 - timestamp-0.2
 - tuples-0.1.0.0
 - url-decoders-0.2.1
@@ -56,7 +57,7 @@ packages:
 - {git: "https://github.com/nikita-volkov/canapi", commit: "0aed6b1541ee6d8842bec2f40323b1faa261d409"}
 - {git: "https://github.com/nikita-volkov/coalmine", commit: "479cfc25eeac1926ee235c7e2945a5cd7ecb3745"}
 - {git: "https://github.com/nikita-volkov/distillery", commit: "2554c2494418d29e433bf3dbd10b99deb8c0cb1e"}
-- {git: "https://github.com/nikita-volkov/domain", commit: "c9adf86b6fb9182aafafb26739ef87da5c834a1e"}
+- {git: "https://github.com/nikita-volkov/domain", commit: "22cd0b6108cf60df517380f41a3407b0af33f9fb"}
 - {git: "https://github.com/nikita-volkov/domain-optics", commit: "4f00289442407ca4e0c2267583ce7315ac959ca0"}
 - {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
 - {git: "https://github.com/nikita-volkov/fx", commit: "a612390cf54c37150c367324b154170921b98318"}
