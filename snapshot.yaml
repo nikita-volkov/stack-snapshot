@@ -75,4 +75,4 @@ packages:
 - {git: "https://github.com/nikita-volkov/reduction", commit: "6045f611ae391b750d7f2620d19844394b9e5166"}
 - {git: "https://github.com/nikita-volkov/theatre", commit: "764977a8b73da0f30e74749226b325b129c4ffe0"}
 - {git: "https://github.com/nikita-volkov/transition", commit: "bc24caf848387fb6732e385064e46fc0a63885a0"}
-- {git: "https://github.com/nikita-volkov/yaml-unscrambler", commit: "47ca4188cc07ef1f8b18c398c41720b3f6d99599"}
+- {git: "https://github.com/nikita-volkov/yaml-unscrambler", commit: "4bdde357ae9a34cea7a670b73bb19e60e44e048f"}
