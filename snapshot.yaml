@@ -1,6 +1,7 @@
 resolver: lts-16.16
 name: nikita-volkov-snapshot
 packages:
+- acc-0.1.0.1
 - aeson-value-parser-0.19.2.1
 - ascii-string-1.0.1.3
 - attoparsec-data-1.0.4.1
@@ -74,4 +75,4 @@ packages:
 - {git: "https://github.com/nikita-volkov/reduction", commit: "6045f611ae391b750d7f2620d19844394b9e5166"}
 - {git: "https://github.com/nikita-volkov/theatre", commit: "764977a8b73da0f30e74749226b325b129c4ffe0"}
 - {git: "https://github.com/nikita-volkov/transition", commit: "bc24caf848387fb6732e385064e46fc0a63885a0"}
-- {git: "https://github.com/nikita-volkov/yaml-unscrambler", commit: "a5e65c7db22199d2bc993985f64fa8fc6d23b9f6"}
+- {git: "https://github.com/nikita-volkov/yaml-unscrambler", commit: "8f33013907a825b10801ffd4ab137a32ef3965c9"}
