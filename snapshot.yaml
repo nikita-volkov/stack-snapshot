@@ -16,6 +16,7 @@ packages:
 - char-qq-0.1.1.1
 - charsetdetect-1.1.0.2
 - contiguous-0.5.1
+- data-fix-0.3.0
 - dense-int-set-0.3
 - dlist-1.0
 - ekg-core-0.1.1.7
@@ -57,6 +58,7 @@ packages:
 - strelka-2.0.5
 - strelka-core-0.3.1
 - strelka-wai-1.0.1.1
+- strict-0.4
 - th-lego-0.1.0.2
 - timestamp-0.2
 - tuples-0.1.0.0
