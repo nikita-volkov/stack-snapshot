@@ -72,6 +72,7 @@ packages:
 - {git: "https://github.com/nikita-volkov/domain-optics", commit: "d98d9050478c2ac30c4045e1121384e36fec1883"}
 - {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
 - {git: "https://github.com/nikita-volkov/json-ast", commit: "f37ec23bd3d8d0f7a5f2b3fbe605f74453b0ed04"}
+- {git: "https://github.com/nikita-volkov/jsonifier", commit: "ea849e410dc1dfdb0ed3a41b01c2bbcc0c565ee4"}
 - {git: "https://github.com/nikita-volkov/lean-http-client", commit: "17e2d6adbad06eff7b47eaaa42e022192b4ce985"}
 - {git: "https://github.com/nikita-volkov/most.hs", commit: "acfb227620f9b39922af49bbd02354c293c2fa9e"}
 - {git: "https://github.com/nikita-volkov/ptr-poker", commit: "b35077e033d2373f149faed92fd94fcc3cd05897"}
