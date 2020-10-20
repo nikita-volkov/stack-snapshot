@@ -62,7 +62,6 @@ packages:
 - strelka-core-0.3.1
 - strelka-wai-1.0.1.1
 - strict-0.4
-- th-lego-0.1.0.2
 - timestamp-0.2
 - tuples-0.1.0.0
 - unordered-containers-0.2.13.0
@@ -77,6 +76,7 @@ packages:
 - {git: "https://github.com/nikita-volkov/lean-http-client", commit: "934e2e9495b103d21fa8a2eecbec80215ec4e4f2"}
 - {git: "https://github.com/nikita-volkov/most.hs", commit: "acfb227620f9b39922af49bbd02354c293c2fa9e"}
 - {git: "https://github.com/nikita-volkov/reduction", commit: "6045f611ae391b750d7f2620d19844394b9e5166"}
+- {git: "https://github.com/nikita-volkov/th-lego", commit: "8b71194413c1ab06820468bd8538775d4bbe6492"}
 - {git: "https://github.com/nikita-volkov/theatre", commit: "764977a8b73da0f30e74749226b325b129c4ffe0"}
 - {git: "https://github.com/nikita-volkov/transition", commit: "bc24caf848387fb6732e385064e46fc0a63885a0"}
 - {git: "https://github.com/nikita-volkov/yaml-unscrambler", commit: "6192f392a27d42890e2332c99f351e2bff4b7558"}
