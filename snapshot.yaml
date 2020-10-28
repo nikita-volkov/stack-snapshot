@@ -71,7 +71,7 @@ packages:
 - vector-shuffling-1.1
 - {git: "https://github.com/nikita-volkov/distillery", commit: "2554c2494418d29e433bf3dbd10b99deb8c0cb1e"}
 - {git: "https://github.com/nikita-volkov/domain", commit: "e02155a50d74c36c90a9ab4b53d1a5cc429036ba"}
-- {git: "https://github.com/nikita-volkov/domain-core", commit: "bd378e2e17fa872cef908977a4b987c63133960d"}
+- {git: "https://github.com/nikita-volkov/domain-core", commit: "b458f6d432883d4bb26e4762b7729a737e0919fa"}
 - {git: "https://github.com/nikita-volkov/domain-optics", commit: "d98d9050478c2ac30c4045e1121384e36fec1883"}
 - {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
 - {git: "https://github.com/nikita-volkov/json-ast", commit: "f37ec23bd3d8d0f7a5f2b3fbe605f74453b0ed04"}
