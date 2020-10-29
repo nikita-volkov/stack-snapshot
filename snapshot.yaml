@@ -62,7 +62,7 @@ packages:
 - strelka-core-0.3.1
 - strelka-wai-1.0.1.1
 - strict-0.4
-- th-lego-0.2
+- th-lego-0.2.1
 - timestamp-0.2
 - tuples-0.1.0.0
 - unordered-containers-0.2.13.0
