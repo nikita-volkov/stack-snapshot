@@ -70,7 +70,7 @@ packages:
 - vector-extras-0.2.1.1
 - vector-shuffling-1.1
 - {git: "https://github.com/nikita-volkov/distillery", commit: "2554c2494418d29e433bf3dbd10b99deb8c0cb1e"}
-- {git: "https://github.com/nikita-volkov/domain", commit: "92ca44579adf407f50a7b96ea4fc84681fad5cdc"}
+- {git: "https://github.com/nikita-volkov/domain", commit: "d87f332420099e1ef7ed2552718329c39cd4e7fa"}
 - {git: "https://github.com/nikita-volkov/domain-core", commit: "3e757a61856183aeb4a8d69111b04d45c96a189c"}
 - {git: "https://github.com/nikita-volkov/domain-optics", commit: "6cf7b5cde2535fd342ed64356809998b8f60c3a5"}
 - {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
