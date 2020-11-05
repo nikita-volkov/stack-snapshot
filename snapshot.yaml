@@ -20,7 +20,9 @@ packages:
 - deferred-folds-0.9.11
 - dense-int-set-0.3
 - dlist-1.0
+- domain-0.1
 - domain-core-0.1
+- domain-optics-0.1
 - ekg-core-0.1.1.7
 - ekg-json-0.1.0.6
 - eternity-0.1.3
@@ -72,8 +74,6 @@ packages:
 - vector-shuffling-1.1
 - yaml-unscrambler-0.1.0.1
 - {git: "https://github.com/nikita-volkov/distillery", commit: "2554c2494418d29e433bf3dbd10b99deb8c0cb1e"}
-- {git: "https://github.com/nikita-volkov/domain", commit: "22d9cc0930cf579d20d76b0efd8a4354919481c5"}
-- {git: "https://github.com/nikita-volkov/domain-optics", commit: "9f2d15811602f9c1167bcce0e5b8866af47e6e49"}
 - {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
 - {git: "https://github.com/nikita-volkov/json-ast", commit: "f37ec23bd3d8d0f7a5f2b3fbe605f74453b0ed04"}
 - {git: "https://github.com/nikita-volkov/lean-http-client", commit: "934e2e9495b103d21fa8a2eecbec80215ec4e4f2"}
