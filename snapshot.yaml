@@ -1,4 +1,4 @@
-resolver: lts-16.20
+resolver: lts-16.23
 name: nikita-volkov-snapshot
 packages:
 - acc-0.1.3
