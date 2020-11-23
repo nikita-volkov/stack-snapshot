@@ -29,7 +29,7 @@ packages:
 - eternity-timestamped-0.4.1
 - expiring-containers-0.2.2.1
 - fast-builder-0.1.2.0
-- foldl-1.4.9
+- foldl-1.4.10
 - hasql-th-0.4.0.8
 - hasql-transaction-0.10.0.3
 - headed-megaparsec-0.1.0.4
