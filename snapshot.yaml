@@ -76,7 +76,6 @@ packages:
 - {git: "https://github.com/nikita-volkov/distillery", commit: "2554c2494418d29e433bf3dbd10b99deb8c0cb1e"}
 - {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
 - {git: "https://github.com/nikita-volkov/json-ast", commit: "f37ec23bd3d8d0f7a5f2b3fbe605f74453b0ed04"}
-- {git: "https://github.com/nikita-volkov/html-unscrambler", commit: "62bc90d2552700f65a08d0e3e8b009112c219623"}
 - {git: "https://github.com/nikita-volkov/lean-http-client", commit: "934e2e9495b103d21fa8a2eecbec80215ec4e4f2"}
 - {git: "https://github.com/nikita-volkov/most.hs", commit: "acfb227620f9b39922af49bbd02354c293c2fa9e"}
 - {git: "https://github.com/nikita-volkov/reduction", commit: "6045f611ae391b750d7f2620d19844394b9e5166"}
