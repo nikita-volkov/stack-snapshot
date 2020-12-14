@@ -76,6 +76,7 @@ packages:
 - {git: "https://github.com/nikita-volkov/distillery", commit: "2554c2494418d29e433bf3dbd10b99deb8c0cb1e"}
 - {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
 - {git: "https://github.com/nikita-volkov/folds-r", commit: "4c4b883905031495407da7386d69fdcd274a0d3b"}
+- {git: "https://github.com/nikita-volkov/fx", commit: "a612390cf54c37150c367324b154170921b98318"}
 - {git: "https://github.com/nikita-volkov/json-ast", commit: "f37ec23bd3d8d0f7a5f2b3fbe605f74453b0ed04"}
 - {git: "https://github.com/nikita-volkov/lean-http-client", commit: "934e2e9495b103d21fa8a2eecbec80215ec4e4f2"}
 - {git: "https://github.com/nikita-volkov/most.hs", commit: "acfb227620f9b39922af49bbd02354c293c2fa9e"}
