@@ -74,6 +74,7 @@ packages:
 - vector-extras-0.2.1.1
 - vector-shuffling-1.1
 - yaml-unscrambler-0.1.0.1
+- {git: "https://github.com/nikita-volkov/coalmine", commit: "dc48061e2b096d45e4205f9d1483e0c8a3e2e3b2"}
 - {git: "https://github.com/nikita-volkov/distillery", commit: "2554c2494418d29e433bf3dbd10b99deb8c0cb1e"}
 - {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
 - {git: "https://github.com/nikita-volkov/folds-r", commit: "4c4b883905031495407da7386d69fdcd274a0d3b"}
