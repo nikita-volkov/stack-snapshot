@@ -76,7 +76,7 @@ packages:
 - yaml-unscrambler-0.1.0.1
 - {git: "https://github.com/nikita-volkov/coalmine", commit: "a9a68e3b96a5ab087a9c14e71b80d7c0d43f9246"}
 - {git: "https://github.com/nikita-volkov/distillery", commit: "2554c2494418d29e433bf3dbd10b99deb8c0cb1e"}
-- {git: "https://github.com/nikita-volkov/ekg", commit: "46d92e82044eaeb52d031612fd07882714d609ae"}
+- {git: "https://github.com/nikita-volkov/ekg", commit: "4d6c947c42c7f99d474dc9f40afd31adcac48e59"}
 - {git: "https://github.com/nikita-volkov/folds-r", commit: "4c4b883905031495407da7386d69fdcd274a0d3b"}
 - {git: "https://github.com/nikita-volkov/fx", commit: "a612390cf54c37150c367324b154170921b98318"}
 - {git: "https://github.com/nikita-volkov/json-ast", commit: "f37ec23bd3d8d0f7a5f2b3fbe605f74453b0ed04"}
