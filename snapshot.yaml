@@ -20,7 +20,6 @@ packages:
 - deferred-folds-0.9.15
 - dense-int-set-0.3
 - dlist-1.0
-- domain-0.1
 - domain-core-0.1
 - domain-optics-0.1
 - ekg-core-0.1.1.7
@@ -74,8 +73,9 @@ packages:
 - vector-extras-0.2.1.1
 - vector-shuffling-1.1
 - yaml-unscrambler-0.1.0.1
-- {git: "https://github.com/nikita-volkov/coalmine", commit: "917f32cda07d42aa5ec93ce5f3703fbe85d5e630"}
+- {git: "https://github.com/nikita-volkov/coalmine", commit: "ac0226ce2d00615dd982094a09c3ea9fce0f452f"}
 - {git: "https://github.com/nikita-volkov/distillery", commit: "2554c2494418d29e433bf3dbd10b99deb8c0cb1e"}
+- {git: "https://github.com/nikita-volkov/domain", commit: "a5572f1935d82528d27cf7112ae565507d6f7482"}
 - {git: "https://github.com/nikita-volkov/ekg", commit: "4d6c947c42c7f99d474dc9f40afd31adcac48e59"}
 - {git: "https://github.com/nikita-volkov/folds-r", commit: "4c4b883905031495407da7386d69fdcd274a0d3b"}
 - {git: "https://github.com/nikita-volkov/fx", commit: "a612390cf54c37150c367324b154170921b98318"}
