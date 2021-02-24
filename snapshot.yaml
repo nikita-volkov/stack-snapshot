@@ -16,6 +16,7 @@ packages:
 - char-qq-0.1.1.1
 - charsetdetect-1.1.0.2
 - contiguous-0.5.1
+- deferred-folds-0.9.16
 - dense-int-set-0.3
 - dlist-1.0
 - domain-core-0.1
