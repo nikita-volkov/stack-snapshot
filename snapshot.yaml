@@ -41,7 +41,7 @@ packages:
 - optparse-applicative-simple-1.1.0.2
 - postgresql-syntax-0.3.0.3
 - ptr-0.16.7.2
-- ptr-poker-0.1.1.2
+- ptr-poker-0.1.1.4
 - punycode-2.0
 - rebase-1.10.0.1
 - rerebase-1.10.0.1
