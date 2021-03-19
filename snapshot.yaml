@@ -55,6 +55,7 @@ packages:
 - timestamp-0.2
 - tuples-0.1.0.0
 - url-decoders-0.2.1
+- vector-0.12.2.0
 - vector-extras-0.2.1.1
 - vector-shuffling-1.1
 - yaml-unscrambler-0.1.0.1
