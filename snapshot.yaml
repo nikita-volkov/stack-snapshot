@@ -14,7 +14,7 @@ packages:
   - byteslice-0.2.3.0
   - bytesmith-0.3.6.0
   - bytestring-0.11.1.0
-  - Cabal-3.2.1.0
+  - Cabal-3.4.0.0
   - cereal-data-dword-0.1.1
   - cereal-unordered-containers-0.1
   - cereal-uuid-0.1.1
