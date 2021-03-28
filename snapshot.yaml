@@ -9,10 +9,13 @@ packages:
   - attoparsec-data-1.0.5
   - attoparsec-time-1.0.1.1
   - binary-0.8.8.0
+  - binary-parser-0.5.7
   - bug-1.0.1
   - byteslice-0.2.3.0
   - bytesmith-0.3.6.0
   - bytestring-0.10.12.1
+  - bytestring-strict-builder-0.4.5.4
+  - bytestring-tree-builder-0.2.7.9
   - Cabal-3.2.1.0
   - cereal-data-dword-0.1.1
   - cereal-unordered-containers-0.1
@@ -30,7 +33,7 @@ packages:
   - eternity-timestamped-0.4.1
   - expiring-containers-0.2.2.1
   - fast-builder-0.1.2.0
-  - hasql-1.4.4.2
+  - hasql-1.4.5.1
   - hasql-th-0.4.0.8
   - hasql-transaction-0.10.0.3
   - headed-megaparsec-0.1.0.4
@@ -46,17 +49,20 @@ packages:
   - optparse-applicative-simple-1.1.0.2
   - parsec-3.1.14.0
   - postgresql-syntax-0.3.0.3
+  - postgresql-binary-0.12.4
   - process-1.6.11.0
+  - profunctors-5.6.2
   - ptr-0.16.8
   - ptr-poker-0.1.1.4
   - punycode-2.0
-  - rebase-1.10.0.1
-  - rerebase-1.10.0.1
+  - rebase-1.11
+  - rerebase-1.11
   - run-st-0.1.1.0
   - slave-thread-1.0.3
   - strelka-2.0.5
   - strelka-core-0.3.1
   - strelka-wai-1.0.1.1
+  - tasty-1.4.1
   - text-1.2.4.1
   - th-lego-0.2.3
   - timestamp-0.2
