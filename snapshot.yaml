@@ -44,6 +44,7 @@ packages:
   - jsonifier-0.1.0.4
   - mason-0.2.3
   - neat-interpolation-0.5.1.2
+  - network-3.1.2.1
   - numeric-limits-0.1.0.0
   - optima-0.4
   - optima-for-hasql-0.1.0.1
