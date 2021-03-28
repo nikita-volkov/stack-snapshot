@@ -8,10 +8,12 @@ packages:
 - ascii-string-1.0.1.3
 - attoparsec-data-1.0.5
 - attoparsec-time-1.0.1.1
+- binary-0.8.8.0
 - bug-1.0.1
 - byteslice-0.2.3.0
 - bytesmith-0.3.6.0
 - bytestring-0.10.12.1
+- Cabal-3.2.1.0
 - cereal-data-dword-0.1.1
 - cereal-unordered-containers-0.1
 - cereal-uuid-0.1.1
@@ -20,6 +22,7 @@ packages:
 - contiguous-0.5.1
 - deferred-folds-0.9.16
 - dense-int-set-0.3
+- directory-1.3.6.1
 - dlist-1.0
 - domain-core-0.1
 - domain-optics-0.1
@@ -41,7 +44,9 @@ packages:
 - optima-0.4
 - optima-for-hasql-0.1.0.1
 - optparse-applicative-simple-1.1.0.2
+- parsec-3.1.14.0
 - postgresql-syntax-0.3.0.3
+- process-1.6.11.0
 - ptr-0.16.8
 - ptr-poker-0.1.1.4
 - punycode-2.0
@@ -52,9 +57,11 @@ packages:
 - strelka-2.0.5
 - strelka-core-0.3.1
 - strelka-wai-1.0.1.1
+- text-1.2.4.1
 - th-lego-0.2.3
 - timestamp-0.2
 - tuples-0.1.0.0
+- unix-2.7.2.2
 - url-decoders-0.2.1
 - vector-0.12.2.0
 - vector-extras-0.2.1.1
