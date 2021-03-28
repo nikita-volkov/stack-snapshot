@@ -1,5 +1,6 @@
 name: nikita-volkov-snapshot
 resolver: lts-17.8
+compiler: ghc-9.0.1
 packages:
   - acc-0.1.3
   - acquire-0.3.1
