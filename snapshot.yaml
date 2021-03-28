@@ -59,6 +59,7 @@ packages:
   - strelka-2.0.5
   - strelka-core-0.3.1
   - strelka-wai-1.0.1.1
+  - text-1.2.4.1
   - th-lego-0.2.3
   - timestamp-0.2
   - tuples-0.1.0.0
