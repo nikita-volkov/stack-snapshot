@@ -33,7 +33,7 @@ packages:
   - fast-builder-0.1.2.1
   - hasql-th-0.4.0.8
   - hasql-transaction-0.10.0.3
-  - headed-megaparsec-0.1.0.4
+  - headed-megaparsec-0.2
   - hex-text-0.1.0.0
   - int-multimap-0.3.1
   - json-bytes-builder-0.5.2.1
