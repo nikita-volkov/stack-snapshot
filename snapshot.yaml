@@ -42,6 +42,7 @@ packages:
   - json-bytes-builder-0.5.2.1
   - jsonifier-0.1.0.4
   - mason-0.2.3
+  - mwc-random-0.15.0.1
   - neat-interpolation-0.5.1.2
   - numeric-limits-0.1.0.0
   - optima-0.4
@@ -55,6 +56,7 @@ packages:
   - ptr-0.16.8
   - ptr-poker-0.1.1.4
   - punycode-2.0
+  - random-1.2.0
   - rebase-1.12.1
   - rerebase-1.12.1
   - run-st-0.1.1.0
