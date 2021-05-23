@@ -52,8 +52,8 @@ packages:
   - ptr-0.16.8
   - ptr-poker-0.1.1.4
   - punycode-2.0
-  - rebase-1.12.0.1
-  - rerebase-1.12.0.1
+  - rebase-1.12.1
+  - rerebase-1.12.1
   - run-st-0.1.1.0
   - slave-thread-1.0.3
   - strelka-2.0.5
