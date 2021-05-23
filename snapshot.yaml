@@ -67,7 +67,7 @@ packages:
   - url-decoders-0.2.1
   - vector-extras-0.2.1.1
   - vector-shuffling-1.1
-  - yaml-unscrambler-0.1.0.1
+  - yaml-unscrambler-0.1.0.2
   - {git: "https://github.com/nikita-volkov/coalmine", commit: "184661cc572b2c714b5e3028e5a49eb33f45ef98"}
   - {git: "https://github.com/nikita-volkov/distillery", commit: "2554c2494418d29e433bf3dbd10b99deb8c0cb1e"}
   - {git: "https://github.com/nikita-volkov/domain", commit: "a5572f1935d82528d27cf7112ae565507d6f7482"}
