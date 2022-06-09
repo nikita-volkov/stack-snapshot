@@ -1,90 +1,19 @@
 name: nikita-volkov-snapshot
-resolver: lts-17.12
+resolver: nightly-2022-06-08
 packages:
-  - acc-0.1.3
-  - acquire-0.3.1
-  - aeson-1.5.4.1
-  - aeson-value-parser-0.19.4
-  - ascii-string-1.0.1.3
-  - attoparsec-data-1.0.5
-  - attoparsec-time-1.0.1.1
-  - binary-0.8.8.0
-  - binary-parser-0.5.7
-  - bug-1.0.1
-  - byteslice-0.2.3.0
-  - bytesmith-0.3.6.0
-  - bytestring-0.10.12.1
-  - bytestring-strict-builder-0.4.5.4
-  - bytestring-tree-builder-0.2.7.9
-  - Cabal-3.2.1.0
-  - cereal-data-dword-0.1.1
+  - git: https://github.com/nikita-volkov/coalmine
+    commit: 48e79f118186b297585e7f6075270a754979e255
+  - git: https://github.com/nikita-volkov/moore-machines
+    commit: 7e95c33b203a1cfe42dbc0e0de3cec8e6fe94290
+  - git: https://github.com/nikita-volkov/isomorphism-class
+    commit: 6030243b4e2c28ab3c010b5f06cb6514d70f9c35
+  - git: https://github.com/nikita-volkov/structure-kit
+    commit: 807f9b40e15d2624f8a679c35a978c2b21a36bfe
+  - aeson-value-parser-0.19.7
   - cereal-unordered-containers-0.1
-  - cereal-uuid-0.1.1
-  - char-qq-0.1.1.1
-  - charsetdetect-1.1.0.2
-  - contiguous-0.5.1
-  - deferred-folds-0.9.17
-  - dense-int-set-0.3
-  - directory-1.3.6.1
-  - dlist-1.0
-  - domain-0.1.1
-  - domain-core-0.1
-  - domain-optics-0.1
-  - eternity-0.1.3
-  - eternity-timestamped-0.4.1
-  - expiring-containers-0.2.2.1
-  - fast-builder-0.1.2.1
-  - hasql-1.4.5.1
-  - hasql-th-0.4.0.8
-  - hasql-transaction-0.10.0.3
-  - headed-megaparsec-0.2
-  - hex-text-0.1.0.0
-  - int-multimap-0.3.1
-  - json-bytes-builder-0.5.2.1
-  - jsonifier-0.1.0.4
-  - mason-0.2.3
-  - mwc-random-0.15.0.1
-  - neat-interpolation-0.5.1.2
-  - numeric-limits-0.1.0.0
-  - optima-0.4
-  - optima-for-hasql-0.1.0.1
-  - optparse-applicative-simple-1.1.0.2
-  - parsec-3.1.14.0
-  - postgresql-syntax-0.3.0.3
-  - postgresql-binary-0.12.4
-  - process-1.6.11.0
-  - profunctors-5.6.2
-  - ptr-0.16.8
-  - ptr-poker-0.1.1.4
-  - punycode-2.0
-  - random-1.2.0
-  - rebase-1.12.1
-  - rerebase-1.12.1
-  - run-st-0.1.1.0
-  - slave-thread-1.0.3
-  - strelka-2.0.5
-  - strelka-core-0.3.1
-  - strelka-wai-1.0.1.1
-  - tasty-1.4.1
-  - text-1.2.4.1
-  - th-lego-0.2.3
+  - cereal-data-dword-0.1.1
+  - domain-aeson-0.1
+  - domain-cereal-0.1
   - timestamp-0.2
-  - tuples-0.1.0.0
-  - unix-2.7.2.2
-  - url-decoders-0.2.1
-  - vector-0.12.2.0
-  - vector-extras-0.2.1.1
-  - vector-shuffling-1.1
-  - yaml-unscrambler-0.1.0.2
-  - {git: "https://github.com/nikita-volkov/coalmine", commit: "184661cc572b2c714b5e3028e5a49eb33f45ef98"}
-  - {git: "https://github.com/nikita-volkov/distillery", commit: "2554c2494418d29e433bf3dbd10b99deb8c0cb1e"}
-  - {git: "https://github.com/nikita-volkov/ekg", commit: "4d6c947c42c7f99d474dc9f40afd31adcac48e59"}
-  - {git: "https://github.com/nikita-volkov/folds-r", commit: "4c4b883905031495407da7386d69fdcd274a0d3b"}
-  - {git: "https://github.com/nikita-volkov/fx", commit: "a612390cf54c37150c367324b154170921b98318"}
-  - {git: "https://github.com/nikita-volkov/json-ast", commit: "f37ec23bd3d8d0f7a5f2b3fbe605f74453b0ed04"}
-  - {git: "https://github.com/nikita-volkov/lean-http-client", commit: "934e2e9495b103d21fa8a2eecbec80215ec4e4f2"}
-  - {git: "https://github.com/nikita-volkov/most.hs", commit: "acfb227620f9b39922af49bbd02354c293c2fa9e"}
-  - {git: "https://github.com/nikita-volkov/moore-machines", commit: "7e95c33b203a1cfe42dbc0e0de3cec8e6fe94290"}
-  - {git: "https://github.com/nikita-volkov/reduction", commit: "6045f611ae391b750d7f2620d19844394b9e5166"}
-  - {git: "https://github.com/nikita-volkov/theatre", commit: "764977a8b73da0f30e74749226b325b129c4ffe0"}
-  - {git: "https://github.com/nikita-volkov/transition", commit: "bc24caf848387fb6732e385064e46fc0a63885a0"}
+  - leb128-cereal-1.2
+  - vector-extras-0.2.7
