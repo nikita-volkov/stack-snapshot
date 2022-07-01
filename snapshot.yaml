@@ -1,19 +1,24 @@
 name: nikita-volkov-snapshot
-resolver: nightly-2022-06-08
+resolver: nightly-2022-07-01
 packages:
   - git: https://github.com/nikita-volkov/coalmine
-    commit: 48e79f118186b297585e7f6075270a754979e255
+    commit: 347030ad0e4a03d1ba14bea50b7a605e5ec19898
+  - git: https://github.com/nikita-volkov/codegen-kit
+    commit: 249524996634f7aa5753e8ee50e4aef555453312
   - git: https://github.com/nikita-volkov/moore-machines
     commit: 7e95c33b203a1cfe42dbc0e0de3cec8e6fe94290
-  - git: https://github.com/nikita-volkov/isomorphism-class
-    commit: 6030243b4e2c28ab3c010b5f06cb6514d70f9c35
   - git: https://github.com/nikita-volkov/structure-kit
-    commit: 807f9b40e15d2624f8a679c35a978c2b21a36bfe
+    commit: 46ffb6527c48f8a718adecd21a313f0b1ba5e81c
+  - git: https://github.com/nikita-volkov/canapi
+    commit: 02f1d9ffea90522a3a0968305793a7f507c7da59
+  - git: https://github.com/metrix-ai/acquire
+    commit: 0e853dd613537e4b6fcbddb551d42df676045049
   - aeson-value-parser-0.19.7
   - cereal-unordered-containers-0.1
   - cereal-data-dword-0.1.1
   - domain-aeson-0.1
   - domain-cereal-0.1
+  - punycode-2.0
   - timestamp-0.2
   - leb128-cereal-1.2
-  - vector-extras-0.2.7
+  - text-builder-dev-0.3.3
