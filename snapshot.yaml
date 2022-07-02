@@ -2,7 +2,7 @@ name: nikita-volkov-snapshot
 resolver: nightly-2022-07-01
 packages:
   - git: https://github.com/nikita-volkov/coalmine
-    commit: 347030ad0e4a03d1ba14bea50b7a605e5ec19898
+    commit: 884aa92ffee2b5b16dfa865f494aa7cb0b1daf82
   - git: https://github.com/nikita-volkov/moore-machines
     commit: 7e95c33b203a1cfe42dbc0e0de3cec8e6fe94290
   - git: https://github.com/nikita-volkov/structure-kit
