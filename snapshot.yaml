@@ -1,8 +1,8 @@
 name: nikita-volkov-snapshot
-resolver: nightly-2022-07-01
+resolver: nightly-2022-07-16
 packages:
   - git: https://github.com/nikita-volkov/coalmine
-    commit: 1a0e9c3c4aa1e075ae4040b81f2f12056f3d336e
+    commit: f14cc1ebf46e8e1d56155a73d394fcc292dfb57c
   - git: https://github.com/nikita-volkov/moore-machines
     commit: 7e95c33b203a1cfe42dbc0e0de3cec8e6fe94290
   - git: https://github.com/nikita-volkov/structure-kit
@@ -10,13 +10,7 @@ packages:
   - git: https://github.com/nikita-volkov/canapi
     commit: 02f1d9ffea90522a3a0968305793a7f507c7da59
   - git: https://github.com/metrix-ai/acquire
-    commit: 0e853dd613537e4b6fcbddb551d42df676045049
-  - aeson-value-parser-0.19.7
-  - cereal-unordered-containers-0.1
+    commit: 75194757308ae9340b0e2eda46d8db4d25af7516
   - cereal-data-dword-0.1.1
-  - domain-aeson-0.1
-  - domain-cereal-0.1
   - punycode-2.0
   - timestamp-0.2
-  - leb128-cereal-1.2
-  - text-builder-dev-0.3.3
