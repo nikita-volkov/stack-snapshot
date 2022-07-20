@@ -9,6 +9,10 @@ packages:
     commit: 46ffb6527c48f8a718adecd21a313f0b1ba5e81c
   - git: https://github.com/nikita-volkov/canapi
     commit: 02f1d9ffea90522a3a0968305793a7f507c7da59
+  - git: https://github.com/nikita-volkov/lean-http-client
+    commit: 52343895df1e5ae49159b8c5f76a50ac438216b1
+  - git: https://github.com/nikita-volkov/distillery
+    commit: 2c2905f2addb0d1925c43d427fcf65340ee64b2a
   - git: https://github.com/metrix-ai/acquire
     commit: 75194757308ae9340b0e2eda46d8db4d25af7516
   - cereal-data-dword-0.1.1
