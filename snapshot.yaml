@@ -16,6 +16,6 @@ packages:
   - git: https://github.com/metrix-ai/acquire
     commit: 75194757308ae9340b0e2eda46d8db4d25af7516
   - cereal-data-dword-0.1.1
-  - hasql-1.6
+  - hasql-1.6.0.1
   - punycode-2.0
   - timestamp-0.2
