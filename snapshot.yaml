@@ -1,5 +1,5 @@
 name: nikita-volkov-snapshot
-resolver: nightly-2022-07-31
+resolver: nightly-2022-08-04
 packages:
   - git: https://github.com/nikita-volkov/coalmine
     commit: 394ba4935cc1e9927da49b4189ff09b9c9058ab1
@@ -16,6 +16,5 @@ packages:
   - git: https://github.com/metrix-ai/acquire
     commit: 75194757308ae9340b0e2eda46d8db4d25af7516
   - cereal-data-dword-0.1.1
-  - hasql-1.6.0.1
   - punycode-2.0
   - timestamp-0.2
