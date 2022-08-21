@@ -8,6 +8,7 @@ packages:
   - url: https://github.com/nikita-volkov/lean-http-client/archive/52343895df1e5ae49159b8c5f76a50ac438216b1.tar.gz
   - url: https://github.com/nikita-volkov/distillery/archive/2c2905f2addb0d1925c43d427fcf65340ee64b2a.tar.gz
   - url: https://github.com/metrix-ai/acquire/archive/75194757308ae9340b0e2eda46d8db4d25af7516.tar.gz
+  - url: https://github.com/nikita-volkov/curly/archive/85b2ca4278f454d0287dbebfc35c13091bb00e19.tar.gz
   - cereal-data-dword-0.1.1
   - punycode-2.0
   - timestamp-0.2
