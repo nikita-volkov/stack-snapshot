@@ -2,7 +2,9 @@ name: nikita-volkov-snapshot
 resolver: nightly-2022-08-19
 packages:
   - cereal-data-dword-0.1.1
+  - curlhs-0.1.6
   - punycode-2.0
+  - rtld-0.0.2
   - timestamp-0.2
   - url: https://github.com/metrix-ai/acquire/archive/75194757308ae9340b0e2eda46d8db4d25af7516.tar.gz
   - url: https://github.com/nikita-volkov/canapi/archive/02f1d9ffea90522a3a0968305793a7f507c7da59.tar.gz
