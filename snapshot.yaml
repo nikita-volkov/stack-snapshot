@@ -9,7 +9,7 @@ packages:
   - url: https://github.com/metrix-ai/acquire/archive/75194757308ae9340b0e2eda46d8db4d25af7516.tar.gz
   - url: https://github.com/nikita-volkov/canapi/archive/02f1d9ffea90522a3a0968305793a7f507c7da59.tar.gz
   - url: https://github.com/nikita-volkov/coalmine/archive/394ba4935cc1e9927da49b4189ff09b9c9058ab1.tar.gz
-  - url: https://github.com/nikita-volkov/curly/archive/9ea873edd970b2f489284d25218090583b04095b.tar.gz
+  - url: https://github.com/nikita-volkov/curly/archive/c4fa6f32604c27ff745226535b97313afd34bdcf.tar.gz
   - url: https://github.com/nikita-volkov/distillery/archive/2c2905f2addb0d1925c43d427fcf65340ee64b2a.tar.gz
   - url: https://github.com/nikita-volkov/lean-http-client/archive/52343895df1e5ae49159b8c5f76a50ac438216b1.tar.gz
   - url: https://github.com/nikita-volkov/moore-machines/archive/7e95c33b203a1cfe42dbc0e0de3cec8e6fe94290.tar.gz
