@@ -1,9 +1,11 @@
 name: nikita-volkov-snapshot
-resolver: nightly-2022-09-08
+resolver: nightly-2022-09-17
 packages:
   - cereal-data-dword-0.1.1
   - curlhs-0.1.6
   - punycode-2.0
+  - rebase-1.16.1
+  - rerebase-1.16.1
   - rtld-0.0.2
   - timestamp-0.2
   - url: https://github.com/metrix-ai/acquire/archive/75194757308ae9340b0e2eda46d8db4d25af7516.tar.gz
