@@ -6,6 +6,7 @@ packages:
   - punycode-2.0
   - rtld-0.0.2
   - timestamp-0.2
+  - turtle-1.6.1
   - url: https://github.com/metrix-ai/acquire/archive/75194757308ae9340b0e2eda46d8db4d25af7516.tar.gz
   - url: https://github.com/nikita-volkov/canapi/archive/02f1d9ffea90522a3a0968305793a7f507c7da59.tar.gz
   - url: https://github.com/nikita-volkov/coalmine/archive/caf6b4329a0c501b923f54b156dd8d3fbf3eb76f.tar.gz
