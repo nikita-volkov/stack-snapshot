@@ -1,5 +1,5 @@
 name: nikita-volkov-snapshot
-resolver: nightly-2022-11-08
+resolver: nightly-2022-11-25
 packages:
   - cereal-data-dword-0.1.1
   - curlhs-0.1.6
@@ -13,5 +13,4 @@ packages:
   - url: https://github.com/nikita-volkov/curly/archive/befa756b963f049f34ff63d905c50125fb2f195f.tar.gz
   - url: https://github.com/nikita-volkov/distillery/archive/2c2905f2addb0d1925c43d427fcf65340ee64b2a.tar.gz
   - url: https://github.com/nikita-volkov/lean-http-client/archive/52343895df1e5ae49159b8c5f76a50ac438216b1.tar.gz
-  - url: https://github.com/nikita-volkov/moore-machines/archive/7e95c33b203a1cfe42dbc0e0de3cec8e6fe94290.tar.gz
   - url: https://github.com/nikita-volkov/structure-kit/archive/46ffb6527c48f8a718adecd21a313f0b1ba5e81c.tar.gz
