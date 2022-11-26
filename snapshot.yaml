@@ -1,16 +1,15 @@
 name: nikita-volkov-snapshot
-resolver: nightly-2022-11-25
+resolver: nightly-2022-11-26
 packages:
   - cereal-data-dword-0.1.1
   - curlhs-0.1.6
   - punycode-2.0
   - rtld-0.0.2
   - timestamp-0.2
-  - turtle-1.6.1
   - url: https://github.com/metrix-ai/acquire/archive/75194757308ae9340b0e2eda46d8db4d25af7516.tar.gz
   - url: https://github.com/nikita-volkov/canapi/archive/02f1d9ffea90522a3a0968305793a7f507c7da59.tar.gz
   - url: https://github.com/nikita-volkov/coalmine/archive/95295462e45bc05843b24dbd594b3c584dd21878.tar.gz
   - url: https://github.com/nikita-volkov/curly/archive/befa756b963f049f34ff63d905c50125fb2f195f.tar.gz
   - url: https://github.com/nikita-volkov/distillery/archive/2c2905f2addb0d1925c43d427fcf65340ee64b2a.tar.gz
   - url: https://github.com/nikita-volkov/lean-http-client/archive/52343895df1e5ae49159b8c5f76a50ac438216b1.tar.gz
-  - url: https://github.com/nikita-volkov/structure-kit/archive/46ffb6527c48f8a718adecd21a313f0b1ba5e81c.tar.gz
+  - url: https://github.com/nikita-volkov/structure-kit/archive/f6423d909d1fc65e15f128012e4940b3412e64fd.tar.gz
