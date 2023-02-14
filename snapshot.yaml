@@ -1,5 +1,5 @@
 name: nikita-volkov-snapshot
-resolver: nightly-2022-12-09
+resolver: nightly-2023-02-14
 packages:
   - cereal-data-dword-0.1.1
   - curlhs-0.1.6
