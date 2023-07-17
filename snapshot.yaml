@@ -8,7 +8,7 @@ packages:
   - timestamp-0.2
   - url: https://github.com/metrix-ai/acquire/archive/75194757308ae9340b0e2eda46d8db4d25af7516.tar.gz
   - url: https://github.com/nikita-volkov/canapi/archive/02f1d9ffea90522a3a0968305793a7f507c7da59.tar.gz
-  - url: https://github.com/nikita-volkov/coalmine/archive/d923b49a8d2bcf85a84e7850515892cc7a93eec2.tar.gz
+  - url: https://github.com/nikita-volkov/coalmine/archive/f430a0c0fcde80394078f22ae03d04c712585919.tar.gz
   - url: https://github.com/nikita-volkov/curly/archive/befa756b963f049f34ff63d905c50125fb2f195f.tar.gz
   - url: https://github.com/nikita-volkov/distillery/archive/2c2905f2addb0d1925c43d427fcf65340ee64b2a.tar.gz
   - url: https://github.com/nikita-volkov/lean-http-client/archive/52343895df1e5ae49159b8c5f76a50ac438216b1.tar.gz
