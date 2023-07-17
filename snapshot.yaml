@@ -1,15 +1,25 @@
 name: nikita-volkov-snapshot
 resolver: nightly-2023-07-15
 packages:
+  - url: https://github.com/nikita-volkov/curly/archive/befa756b963f049f34ff63d905c50125fb2f195f.tar.gz
+  - git: https://github.com/nikita-volkov/coalmine
+    commit: 28495a220b282e36dc39a55044c7c503b5edffc6
+    subdirs:
+      - coalmine
+      - posix-path
+      - posix-path-structures
+  - git: https://github.com/nikita-volkov/structure-kit
+    commit: 6176e6b5e6322a293473626821142e08673b4a39
+  - git: https://github.com/nikita-volkov/canapi
+    commit: 02f1d9ffea90522a3a0968305793a7f507c7da59
+  - git: https://github.com/nikita-volkov/lean-http-client
+    commit: 52343895df1e5ae49159b8c5f76a50ac438216b1
+  - git: https://github.com/nikita-volkov/distillery
+    commit: 2c2905f2addb0d1925c43d427fcf65340ee64b2a
+  - git: https://github.com/metrix-ai/acquire
+    commit: e56d29744602f48d7719114aa42fad185b694fbb
   - cereal-data-dword-0.1.1
   - curlhs-0.1.6
-  - punycode-2.0
   - rtld-0.0.2
+  - punycode-2.0
   - timestamp-0.2
-  - url: https://github.com/metrix-ai/acquire/archive/75194757308ae9340b0e2eda46d8db4d25af7516.tar.gz
-  - url: https://github.com/nikita-volkov/canapi/archive/02f1d9ffea90522a3a0968305793a7f507c7da59.tar.gz
-  - url: https://github.com/nikita-volkov/coalmine/archive/f430a0c0fcde80394078f22ae03d04c712585919.tar.gz
-  - url: https://github.com/nikita-volkov/curly/archive/befa756b963f049f34ff63d905c50125fb2f195f.tar.gz
-  - url: https://github.com/nikita-volkov/distillery/archive/2c2905f2addb0d1925c43d427fcf65340ee64b2a.tar.gz
-  - url: https://github.com/nikita-volkov/lean-http-client/archive/52343895df1e5ae49159b8c5f76a50ac438216b1.tar.gz
-  - url: https://github.com/nikita-volkov/structure-kit/archive/f6423d909d1fc65e15f128012e4940b3412e64fd.tar.gz
