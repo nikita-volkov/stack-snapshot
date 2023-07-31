@@ -20,6 +20,7 @@ packages:
     commit: e56d29744602f48d7719114aa42fad185b694fbb
   - cereal-data-dword-0.1.1
   - curlhs-0.1.6
+  - lzma-conduit-1.2.3
   - rtld-0.0.2
   - punycode-2.0
   - timestamp-0.2
