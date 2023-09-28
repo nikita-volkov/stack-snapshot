@@ -1,5 +1,5 @@
 name: nikita-volkov-snapshot
-resolver: nightly-2023-07-15
+resolver: nightly-2023-09-27
 packages:
   - url: https://github.com/nikita-volkov/curly/archive/befa756b963f049f34ff63d905c50125fb2f195f.tar.gz
   - git: https://github.com/nikita-volkov/coalmine
