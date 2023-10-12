@@ -1,5 +1,5 @@
 name: nikita-volkov-snapshot
-resolver: nightly-2023-09-27
+resolver: nightly-2023-10-09
 packages:
   - url: https://github.com/nikita-volkov/curly/archive/befa756b963f049f34ff63d905c50125fb2f195f.tar.gz
   - git: https://github.com/nikita-volkov/coalmine
@@ -9,7 +9,7 @@ packages:
       - posix-path
       - posix-path-structures
   - git: https://github.com/nikita-volkov/structure-kit
-    commit: 6176e6b5e6322a293473626821142e08673b4a39
+    commit: 25db128fe428595b5d4cb2a4a4335fc36e112255
   - git: https://github.com/nikita-volkov/canapi
     commit: 02f1d9ffea90522a3a0968305793a7f507c7da59
   - git: https://github.com/nikita-volkov/lean-http-client
