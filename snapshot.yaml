@@ -3,7 +3,7 @@ resolver: nightly-2023-10-13
 packages:
   - url: https://github.com/nikita-volkov/curly/archive/befa756b963f049f34ff63d905c50125fb2f195f.tar.gz
   - git: https://github.com/nikita-volkov/coalmine
-    commit: f430a0c0fcde80394078f22ae03d04c712585919
+    commit: e8f0e0b66a1d1b760020c1838b5c1d845efe6587
     subdirs:
       - coalmine
       - posix-path
