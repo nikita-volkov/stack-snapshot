@@ -6,7 +6,9 @@ packages:
     commit: e8f0e0b66a1d1b760020c1838b5c1d845efe6587
     subdirs:
       - coalmine
+      - lift-instances
       - posix-path
+      - posix-path-directory
       - posix-path-structures
   - git: https://github.com/nikita-volkov/structure-kit
     commit: 25db128fe428595b5d4cb2a4a4335fc36e112255
