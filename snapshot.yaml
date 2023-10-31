@@ -1,9 +1,9 @@
 name: nikita-volkov-snapshot
-resolver: nightly-2023-10-24
+resolver: nightly-2023-10-31
 packages:
   - url: https://github.com/nikita-volkov/curly/archive/befa756b963f049f34ff63d905c50125fb2f195f.tar.gz
   - git: https://github.com/nikita-volkov/coalmine
-    commit: e8f0e0b66a1d1b760020c1838b5c1d845efe6587
+    commit: 5f1666e6fb5f46c33500bf1f525882c238a50179
     subdirs:
       - coalmine
       - lift-instances
