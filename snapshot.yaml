@@ -11,7 +11,7 @@ packages:
       - posix-path-directory
       - posix-path-structures
   - git: https://github.com/nikita-volkov/structure-kit
-    commit: 25db128fe428595b5d4cb2a4a4335fc36e112255
+    commit: 04935e215af429cad7eecd5856908d65bae05687
   - git: https://github.com/nikita-volkov/canapi
     commit: 02f1d9ffea90522a3a0968305793a7f507c7da59
   - git: https://github.com/nikita-volkov/lean-http-client
