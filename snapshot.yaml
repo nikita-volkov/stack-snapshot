@@ -1,17 +1,18 @@
 name: nikita-volkov-snapshot
-resolver: nightly-2023-11-15
+resolver: nightly-2024-08-02
 packages:
   - url: https://github.com/nikita-volkov/curly/archive/befa756b963f049f34ff63d905c50125fb2f195f.tar.gz
   - git: https://github.com/nikita-volkov/coalmine
-    commit: 5f1666e6fb5f46c33500bf1f525882c238a50179
+    commit: e6d8718282739d51b597f63d00b08d9dfb1c46aa
     subdirs:
       - coalmine
       - lift-instances
       - posix-path
       - posix-path-directory
       - posix-path-structures
+      - qq-extras
   - git: https://github.com/nikita-volkov/structure-kit
-    commit: 04935e215af429cad7eecd5856908d65bae05687
+    commit: e734afb9e3a0abd9fa19e4c664fe79b70e3db76b
   - git: https://github.com/nikita-volkov/canapi
     commit: 02f1d9ffea90522a3a0968305793a7f507c7da59
   - git: https://github.com/nikita-volkov/lean-http-client
