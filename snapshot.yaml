@@ -3,7 +3,7 @@ resolver: nightly-2024-08-02
 packages:
   - url: https://github.com/nikita-volkov/curly/archive/befa756b963f049f34ff63d905c50125fb2f195f.tar.gz
   - git: https://github.com/nikita-volkov/coalmine
-    commit: e6d8718282739d51b597f63d00b08d9dfb1c46aa
+    commit: 69e985439b3967de6edf1585bf4e2a6ab82a81a4
     subdirs:
       - coalmine
       - lift-instances
